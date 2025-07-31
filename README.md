@@ -8,6 +8,7 @@ A task queue for the neurodivergent that eliminates the trauma of deciding what 
 - 0..1 Project
 - Context (under what circumstances can the Task be performed?)
 - Priority (ceteris paribus position in the queue)
+- Generate tasks, by context, for a bullet journal daily log
 
 ## Features
 - Create a quick Task, something that must be done outside of your current context
