@@ -13,7 +13,7 @@ A task queue for the neurodivergent that eliminates the trauma of deciding what 
 ## Features
 - Create a quick task, when something must be done outside of your current context
 - Create a project, with or without inital tasks, or with a starting task of figuring out the steps to complete it.
-- AI assistant to generate tasks based on the Project description, which works starting with zero or any number of existing tasks
+- AI assistant to generate steps based on the project description, which works starting with zero or any number of existing tasks
 
 ## TODO
 Review GTD and Order from Chaos methods to flesh things out.
