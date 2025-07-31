@@ -11,9 +11,9 @@ A task queue for the neurodivergent that eliminates the trauma of deciding what 
 - Generate tasks, by context, for a bullet journal daily log
 
 ## Features
-- Create a quick Task, something that must be done outside of your current context
-- Create a Project, with or without inital Tasks, or with a placeholder Task (TODO: generate Tasks)
-- AI assistant to generate Tasks based on the Project description.
+- Create a quick task, when something must be done outside of your current context
+- Create a project, with or without inital tasks, or with a starting task of figuring out the steps to complete it.
+- AI assistant to generate tasks based on the Project description, which works starting with zero or any number of existing tasks
 
 ## TODO
 Review GTD and Order from Chaos methods to flesh things out.
