@@ -2,7 +2,7 @@
 Order from Chaos style task queue
 
 ## Objective
-A task queue for the neurodivergent that eliminates the trauma of deciding what to do next. Tasks can be stand-alone (under two-minute, do-right-away) or, most likeley, they are part of a Project (anything that requires more than one step).
+A task queue for the neurodivergent that eliminates the trauma of deciding what to do next. Tasks can be stand-alone (under two-minute, do-right-away) or, most likely, they are part of a Project (anything that requires more than one step).
 
 ## Task Properties
 - 0..1 Project
