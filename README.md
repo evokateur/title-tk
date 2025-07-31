@@ -15,5 +15,9 @@ A task queue for the neurodivergent that eliminates the trauma of deciding what 
 - Create a project, with or without inital tasks, or with a starting task of figuring out the steps to complete it.
 - AI assistant to generate steps based on the project description, which works starting with zero or any number of existing tasks
 
+## Ubiquitous Language
+- Task: something that involves only one step
+- Project: something that involves more than one step; having Steps, a set of Tasks
+
 ## TODO
 Review GTD and Order from Chaos methods to flesh things out.
