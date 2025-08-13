@@ -1,6 +1,6 @@
 # title-tk
 
-Order from Chaos task decider, inspired by the book by Jaclyn Paul
+Order from Chaos task decider, inspired by the book by Jaclyn Paul. It doesn't have a name yet (like the Breeders album)
 
 ## Objective
 
