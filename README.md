@@ -22,7 +22,7 @@ A task queue for the neurodivergent that eliminates the trauma of deciding what 
 
 - 0..1 Project
 - Status: Next Action (doable right now), Waiting (waiting for something else to happen), Delegated (waiting for someone else to do it)
-- 1..1 Context (under what circumstances can the Task be performed?)
+- 1..1 Context (under what circumstances can the Task be performed?). These will be user defined on the fly in an organic way
   Example contexts (taken from book):
   - House (anytime)
   - Outdoors
