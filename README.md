@@ -9,8 +9,11 @@ A task queue for the neurodivergent that eliminates the trauma of deciding what 
 ## Features
 
 - Create a task, when something must be done outside of your current context
+  - Generally, when you realize that something should be done you can either do it right away, or create a marker to remind you that it needs to be done, to keep your call stack from getting too large. The main thing is to not forget about it completely. You just need some kind of marker that will bring the idea of the task back to you in the future. For example, if I run out of a something, I'm going to need to add an item to my shopping list (AnyList). Instead of taking the time to open the app and add the item I'll often leave a physical marker for myself. I'll take the empty container and put it on my desk. That's just an example. I think it's similar to the idea of an inbox as described in the book. I'd like to make it as easy as it possibly can be to create a TODO/task in the app. What this possibly means is a widget, which I understand in terms of iOS, but not in Android. If you are creating this sort of marker (tossing something into your inbox) you may not actually know whether the thing is a task or a project, you just know that it's something to address. Deciding how to go about it, how simple or complex it is, requires some thought that wants to be put off until later.
+
 - Create/Edit a project, with or without initial tasks, or with a starting task of figuring out the steps to complete it.
   - AI assistant to generate steps based on the project description, which works starting with zero or any number of existing tasks
+
 - Generate TODOs, by context, for a bullet journal daily log
 
 ## Ubiquitous Language
@@ -22,7 +25,7 @@ A task queue for the neurodivergent that eliminates the trauma of deciding what 
 
 - 0..1 Project
 - Status: Next Action (doable right now), Waiting (waiting for something else to happen), Delegated (waiting for someone else to do it)
-- 1..1 Context (under what circumstances can the Task be performed?). These will be user defined on the fly in an organic way
+- 1..1 Context (under what circumstances can the Task be performed?). The contexts should be defined by the user organically. If I cannot do this thing now, when can I do it? --> create the context
   Example contexts (taken from book):
   - House (anytime)
   - Outdoors
